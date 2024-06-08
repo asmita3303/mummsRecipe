@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mummsRecipe/static/css/main.a689dff1.css",
+    "main.js": "/mummsRecipe/static/js/main.4a88d94a.js",
+    "index.html": "/mummsRecipe/index.html",
+    "main.a689dff1.css.map": "/mummsRecipe/static/css/main.a689dff1.css.map",
+    "main.4a88d94a.js.map": "/mummsRecipe/static/js/main.4a88d94a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a689dff1.css",
+    "static/js/main.4a88d94a.js"
+  ]
+}
